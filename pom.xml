@@ -2,11 +2,11 @@
 <repository>
 <id>deployment</id>
 <name>internal release</name>
-<url>http://13.126.128.244:8081/repository/sample_Rel/</url>
+    <url>http://13.126.128.244:8081/repository/trypom/</url>
 </repository>
     <snapshotRepository>
     <id>deployment</id>
     <name>internal release snapshot</name>
-    <url>http://13.126.128.244:8081/repository/sample_snap/</url>
+    <url>http://13.126.128.244:8081/repository/trypom_snap/</url>
     </snapshotRepository>
     </distributionManagement>
